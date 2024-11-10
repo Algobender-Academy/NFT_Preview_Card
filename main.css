@@ -30,12 +30,12 @@ img {
   /* Desktop */
   --HEADING: 600 1.38rem var(--FF);
   --BODY: 300 1.13rem/1.63rem var(--FF);
-  --CAPTION: normal 0.94rem var(--FF);
-  --CAPTION-BOLD: 600 0.94rem var(--FF);
+  --CAPTION: normal 1rem var(--FF);
+  --CAPTION-BOLD: 600 1rem var(--FF);
 
   /* Mobile */
-  --CAPTION-MOB: normal 1rem var(--FF);
-  --CAPTION-BOLD-MOB: 600 1rem var(--FF);
+  --CAPTION-MOB: normal 0.94rem var(--FF);
+  --CAPTION-BOLD-MOB: 600 0.94rem var(--FF);
 
   /* SHADOW */
   --SHADOW: 0px 25px 50px 0px hsla(0, 0%, 0%, 0.0953);
